@@ -27,6 +27,8 @@ Extinde Persoana, conținând lista voturilor primite.
 7️⃣ Vot
 Înregistrează un vot, verifică validitatea și posibile fraude.
 
+[![Java CI with Gradle](https://github.com/andreeabudes/VoteSmart/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/andreeabudes/VoteSmart/actions/workflows/gradle.yml)
+
 8️⃣ Frauda
 Identifică și raportează voturile suspecte (ex. vot multiplu).
 
