@@ -27,8 +27,8 @@ Extinde Persoana, conținând lista voturilor primite.
 7️⃣ Vot
 Înregistrează un vot, verifică validitatea și posibile fraude.
 
-8️⃣ Frauda.java
+8️⃣ Frauda
 Identifică și raportează voturile suspecte (ex. vot multiplu).
 
-9️⃣ Regiune.java
+9️⃣ Regiune
 Grupează și analizează voturile pe zone geografice.
