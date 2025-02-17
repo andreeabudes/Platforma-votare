@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cod.AppTest" tests="62" skipped="0" failures="0" errors="0" timestamp="2025-02-17T20:03:50" hostname="ANDREEA" time="0.294">
+  <properties/>
+  <testcase name="test10()" classname="Cod.AppTest" time="0.022"/>
+  <testcase name="test11()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test12()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test13()" classname="Cod.AppTest" time="0.013"/>
+  <testcase name="test14()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test15()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test16()" classname="Cod.AppTest" time="0.003"/>
+  <testcase name="test17()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test18()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test19()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test20()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test21()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test22()" classname="Cod.AppTest" time="0.003"/>
+  <testcase name="test23()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test24()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test25()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test26()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test27()" classname="Cod.AppTest" time="0.017"/>
+  <testcase name="test28()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test29()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test30()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test31()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test32()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test33()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test34()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test35()" classname="Cod.AppTest" time="0.012"/>
+  <testcase name="test36()" classname="Cod.AppTest" time="0.003"/>
+  <testcase name="test37()" classname="Cod.AppTest" time="0.003"/>
+  <testcase name="test38()" classname="Cod.AppTest" time="0.003"/>
+  <testcase name="test39()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test40()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test41()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test42()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test43()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test44()" classname="Cod.AppTest" time="0.014"/>
+  <testcase name="test45()" classname="Cod.AppTest" time="0.003"/>
+  <testcase name="test46()" classname="Cod.AppTest" time="0.003"/>
+  <testcase name="test47()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test48()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test49()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test50()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test51()" classname="Cod.AppTest" time="0.041"/>
+  <testcase name="test52()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test53()" classname="Cod.AppTest" time="0.034"/>
+  <testcase name="test54()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test55()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test56()" classname="Cod.AppTest" time="0.013"/>
+  <testcase name="test57()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test58()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test59()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test60()" classname="Cod.AppTest" time="0.004"/>
+  <testcase name="test61()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test0()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test1()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test2()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test3()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test4()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test5()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test6()" classname="Cod.AppTest" time="0.002"/>
+  <testcase name="test7()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test8()" classname="Cod.AppTest" time="0.001"/>
+  <testcase name="test9()" classname="Cod.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
